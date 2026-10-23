@@ -14,3 +14,17 @@ Version 2 (Portfolio Enhancement)
 - SQL analysis
 - Model comparison
 - Dashboard development (Power BI)
+
+##################################
+
+**Traffic Violation Analytics & Injury Risk Prediction**
+
+-Business Problem
+-Dataset
+-Tools Used
+-Project Workflow
+-Key Findings
+-Model Performance
+-Future Improvements
+-Dashboard Screenshots
+-Repository Structure
